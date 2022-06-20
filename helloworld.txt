@@ -1,7 +1,7 @@
 hello git I Love Git!  我修改了！
 hello git I Love Git!  我又修改了！
+hello git I Love Git!  
 hello git I Love Git!
-hello git I Love Git!
-hello git I Love Git!
+hello git I Love Git!  master uodate!
 hello git I Love Git!
 
